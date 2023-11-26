@@ -1,0 +1,3 @@
+Basics -> routing, views, controllers
+datamigration1 -> migration , seeders
+datamigration1.1-> factory
